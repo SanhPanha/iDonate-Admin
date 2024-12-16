@@ -1,0 +1,93 @@
+[
+    {
+      "fullname": "John Smith",
+      "email": "john.smith@example.com",
+      "contact": "+1-202-555-0173",
+      "currentaddress": "123 Elm Street, Springfield, IL, USA",
+      "image": "https://example.com/images/john-smith.jpg",
+      "bio": "ជន ស្ម៊ីត ជាអ្នកធ្វើការស្ម័គ្រចិត្តដ៏សកម្ម។",
+      "donationamount": 150.00
+    },
+    {
+      "fullname": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "contact": "+1-202-555-0156",
+      "currentaddress": "456 Oak Lane, Austin, TX, USA",
+      "image": "https://example.com/images/jane-doe.jpg",
+      "bio": "ជេន ដូ អ្នកចូលរួមក្នុងកម្មវិធីសប្បុរសធម៌ជាច្រើន។",
+      "donationamount": 200.00
+    },
+    {
+      "fullname": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "contact": "+44-7911-123456",
+      "currentaddress": "32 River Road, Manchester, UK",
+      "image": "https://example.com/images/alice-johnson.jpg",
+      "bio": "អាលីស ជនសុន គឺជាអ្នកផ្តល់ជំនួយអន្តរជាតិ។",
+      "donationamount": 300.00
+    },
+    {
+      "fullname": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "contact": "+61-400-123-456",
+      "currentaddress": "78 Main Street, Sydney, Australia",
+      "image": "https://example.com/images/michael-brown.jpg",
+      "bio": "ម៉ៃខែល ប្រោន ជាអ្នកគាំទ្រសហគមន៍។",
+      "donationamount": 100.00
+    },
+    {
+      "fullname": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "contact": "+91-98765-43210",
+      "currentaddress": "14 Park Avenue, Mumbai, India",
+      "image": "https://example.com/images/emily-davis.jpg",
+      "bio": "អេមីលី ដាវីស ជាអ្នកស្រឡាញ់ការចែករំលែក។",
+      "donationamount": 250.00
+    },
+    {
+      "fullname": "Chris Wilson",
+      "email": "chris.wilson@example.com",
+      "contact": "+1-202-555-0198",
+      "currentaddress": "89 Pine Street, Denver, CO, USA",
+      "image": "https://example.com/images/chris-wilson.jpg",
+      "bio": "គ្រីស វីលសុន គឺជាអ្នកធ្វើការងារសប្បុរសធម៌។",
+      "donationamount": 400.00
+    },
+    {
+      "fullname": "Sophia Taylor",
+      "email": "sophia.taylor@example.com",
+      "contact": "+49-151-23456789",
+      "currentaddress": "12 Lindenstraße, Berlin, Germany",
+      "image": "https://example.com/images/sophia-taylor.jpg",
+      "bio": "សូផៀ ថេល័រ ជាអ្នកចូលរួមដ៏មានសុទិដ្ឋិនិយម។",
+      "donationamount": 350.00
+    },
+    {
+      "fullname": "Liam Martinez",
+      "email": "liam.martinez@example.com",
+      "contact": "+33-6-12-34-56-78",
+      "currentaddress": "45 Rue de Rivoli, Paris, France",
+      "image": "https://example.com/images/liam-martinez.jpg",
+      "bio": "លៀម ម៉ារីតេនេស ជាអ្នកគាំទ្រអាជីវកម្មខ្នាតតូច។",
+      "donationamount": 275.00
+    },
+    {
+      "fullname": "Isabella Moore",
+      "email": "isabella.moore@example.com",
+      "contact": "+81-80-1234-5678",
+      "currentaddress": "3 Sakura Lane, Tokyo, Japan",
+      "image": "https://example.com/images/isabella-moore.jpg",
+      "bio": "អ៊ីសាបែល ម៉ូរ ជាអ្នកចូលរួមដ៏សកម្ម។",
+      "donationamount": 500.00
+    },
+    {
+      "fullname": "David Garcia",
+      "email": "david.garcia@example.com",
+      "contact": "+34-600-123-456",
+      "currentaddress": "20 Gran Vía, Madrid, Spain",
+      "image": "https://example.com/images/david-garcia.jpg",
+      "bio": "ដាវីដ ហ្គាស្យា ជាអ្នកស្ម័គ្រចិត្តខាងសុខភាព។",
+      "donationamount": 150.00
+    }
+  ]
+  

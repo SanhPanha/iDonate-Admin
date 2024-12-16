@@ -1,0 +1,113 @@
+[
+    {
+      "full_name": "ក្រុមហ៊ុន សូលុយសិន បៃតង",
+      "email": "info@greentech.com",
+      "contact": "+1-800-555-1234",
+      "current_address": "123 Greenway Blvd, Seattle, WA, USA",
+      "reference_information": "ref_doc_01.pdf",
+      "profile": "profile_01.png",
+      "purpose": "ការច្នៃប្រឌិតនៃបរិស្ថានចិន្តិតកម្ម",
+      "bio": "ឧទ្ទិសខ្លួនដើម្បីបង្កើតដំណោះស្រាយបរិស្ថានប្រកបដោយចីរភាព។"
+    },
+    {
+      "full_name": "អាគារ អនាគត",
+      "email": "contact@futureinnovators.com",
+      "contact": "+1-800-555-5678",
+      "current_address": "456 Tech Ave, Palo Alto, CA, USA",
+      "reference_information": "ref_doc_02.pdf",
+      "profile": "profile_02.png",
+      "purpose": "ជំរុញការច្នៃប្រឌិតក្នុងវិស័យបច្ចេកវិទ្យា",
+      "bio": "ផ្តោតសំខាន់លើការស្រាវជ្រាវនិងអភិវឌ្ឍក្នុងវិស័យ AI និងមេកានិច។"
+    },
+    {
+      "full_name": "មូលនិធិ សុខភាពដំបូង",
+      "email": "info@healthfirst.org",
+      "contact": "+1-800-555-9876",
+      "current_address": "789 Wellness Dr, Austin, TX, USA",
+      "reference_information": "ref_doc_03.pdf",
+      "profile": "profile_03.png",
+      "purpose": "បង្កើនភាពងាយស្រួលក្នុងការចូលដំណើរការសុខភាព",
+      "bio": "ឧទ្ទិសដល់ការផ្តល់ដំណោះស្រាយសុខភាពសម្រាប់សហគមន៍ខ្វះខាត។"
+    },
+    {
+      "full_name": "អេឌុប្រូ សិក្សា",
+      "email": "info@edupro.com",
+      "contact": "+1-800-555-8765",
+      "current_address": "123 Education St, Phnom Penh, Cambodia",
+      "reference_information": "ref_doc_04.pdf",
+      "profile": "profile_04.png",
+      "purpose": "ការផ្តល់ការអប់រំប្រកបដោយគុណភាព",
+      "bio": "ឧទ្ទិសដល់ការអប់រំ និងការបណ្តុះបណ្តាលសម្រាប់យុវជន។"
+    },
+    {
+      "full_name": "ក្រុមហ៊ុន ប្លាក្កែត សឹលុយសិន",
+      "email": "info@blacktech.com",
+      "contact": "+1-800-555-1111",
+      "current_address": "456 IT Zone, Siem Reap, Cambodia",
+      "reference_information": "ref_doc_05.pdf",
+      "profile": "profile_05.png",
+      "purpose": "ការអភិវឌ្ឍបច្ចេកវិទ្យាថ្មី",
+      "bio": "ឧទ្ទិសដល់ការកែលម្អសេវាកម្ម និងផលិតផលបច្ចេកវិទ្យា។"
+    },
+    {
+      "full_name": "មូលនិធិ សេចក្ដីស្រឡាញ់",
+      "email": "love@foundation.org",
+      "contact": "+1-800-555-2222",
+      "current_address": "123 Love Rd, Battambang, Cambodia",
+      "reference_information": "ref_doc_06.pdf",
+      "profile": "profile_06.png",
+      "purpose": "ជួយសង្គ្រោះអ្នកដែលត្រូវការជំនួយ",
+      "bio": "បង្កើតដើម្បីចែករំលែកនិងជួយសង្គ្រោះសហគមន៍។"
+    },
+    {
+      "full_name": "វិស័យសិល្បៈ",
+      "email": "info@artfield.org",
+      "contact": "+1-800-555-3333",
+      "current_address": "789 Creative St, Kampot, Cambodia",
+      "reference_information": "ref_doc_07.pdf",
+      "profile": "profile_07.png",
+      "purpose": "លើកស្ទួយសិល្បៈនិងវប្បធម៌",
+      "bio": "ឧទ្ទិសខ្លួនដើម្បីលើកស្ទួយសិល្បៈជាតិ។"
+    },
+    {
+      "full_name": "វិស្វកម្ម ស៊ីមេន",
+      "email": "info@cementeng.com",
+      "contact": "+1-800-555-4444",
+      "current_address": "456 Build Ave, Takeo, Cambodia",
+      "reference_information": "ref_doc_08.pdf",
+      "profile": "profile_08.png",
+      "purpose": "កសាងនិងបណ្ដុះសហគមន៍រឹងមាំ",
+      "bio": "បង្កើតដើម្បីផ្តល់សេវាកម្មសាងសង់ដែលមានគុណភាព។"
+    },
+    {
+      "full_name": "មូលនិធិ សង្ឃឹម",
+      "email": "hope@foundation.org",
+      "contact": "+1-800-555-5555",
+      "current_address": "123 Hope St, Kampong Cham, Cambodia",
+      "reference_information": "ref_doc_09.pdf",
+      "profile": "profile_09.png",
+      "purpose": "ជួយជម្ងឺ និងការសិក្សា",
+      "bio": "ផ្តោតសំខាន់លើសុខភាព និងការអប់រំ។"
+    },
+    {
+      "full_name": "ក្រុមហ៊ុន ប្លូវបណ្តាញ",
+      "email": "info@blueconnect.com",
+      "contact": "+1-800-555-6666",
+      "current_address": "456 Network Blvd, Phnom Penh, Cambodia",
+      "reference_information": "ref_doc_10.pdf",
+      "profile": "profile_10.png",
+      "purpose": "បង្កើតបណ្តាញច្នៃប្រឌិត",
+      "bio": "ក្រុមហ៊ុនឈានមុខនាំមុខខាងបណ្តាញបច្ចេកវិទ្យា។"
+    },
+    {
+      "full_name": "ក្រុមហ៊ុន ប្រាក់បៃតង",
+      "email": "greenmoney@finance.com",
+      "contact": "+1-800-555-7777",
+      "current_address": "123 Finance St, Sihanoukville, Cambodia",
+      "reference_information": "ref_doc_11.pdf",
+      "profile": "profile_11.png",
+      "purpose": "ការផ្តល់សេវាហិរញ្ញវត្ថុប្រកបដោយចីរភាព",
+      "bio": "ជួយបង្កើតអនាគតហិរញ្ញវត្ថុដែលមានសុវត្ថិភាព។"
+    }
+  ]
+  

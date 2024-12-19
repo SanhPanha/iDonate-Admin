@@ -28,7 +28,6 @@ const validationSchema = Yup.object().shape({
 
 export default function LoginForm() {
   const { data: session, status } = useSession();
-  const [isHovering, setIsHovering] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
   const router = useRouter();
 
@@ -214,43 +213,6 @@ export default function LoginForm() {
               </Form>
             )}
           </Formik>
-
-          <div className="flex items-center my-4 mb-0">
-            <span className="flex-grow border-t border-gray-400"></span>
-            <span className="mx-4 text-sm text-gray-500 font-medium">or continue with</span>
-            <span className="flex-grow border-t border-gray-400"></span>
-          </div>
-
-          <div className="flex items-center justify-center mt-4 space-x-[-20px]">
-            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-              <Button
-                variant="outline"
-                className="w-20 h-20 rounded-full bg-transparent border-none hover:bg-transparent transition-colors duration-200"
-                onClick={() => signIn("google", { callbackUrl: "/" })}
-              >
-                <Image
-                  src={GoogleIcon}
-                  alt="Google"
-                  width={60}
-                  height={60}
-                />
-              </Button>
-            </motion.div>
-            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-              <Button
-                variant="outline"
-                className="w-20 h-20 rounded-full bg-transparent border-none hover:bg-transparent transition-colors duration-200"
-                onClick={() => signIn("facebook", { callbackUrl: "/" })}
-              >
-                <Image
-                  src={FacebookIcon}
-                  alt="Facebook"
-                  width={60}
-                  height={60}
-                />
-              </Button>
-            </motion.div>
-          </div>
 
           <p className="mt-4 text-center text-sm text-gray-600">
             Don't have an account?{" "}
